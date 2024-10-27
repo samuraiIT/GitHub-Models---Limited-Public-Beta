@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Models - Limited Public Beta
 
 Welcome to your shiny new Codespace for interacting with GitHub Models! We've got everything fired up and ready for you to explore AI Models hosted on Azure AI.
@@ -31,3 +32,6 @@ The feature is subject to various limits (including requests per minute, request
 GitHub Models uses [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety). These filters cannot be turned off as part of the GitHub Models experience. If you decide to employ models through a paid service, please configure your content filters to meet your requirements.
 
 This service is under GitHub’s [Pre-release Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms). Your use of the GitHub Models is subject to the following [Product Terms](https://www.microsoft.com/licensing/terms/productoffering/MicrosoftAzure/allprograms) and [Privacy Statement](https://www.microsoft.com/licensing/terms/product/PrivacyandSecurityTerms/MCA). Content within this Repository may be subject to additional license terms.
+=======
+# GitHub-Models---Limited-Public-Beta
+>>>>>>> 470e71d883a40b21188cf89a7f137f5bc1d4c2d6
